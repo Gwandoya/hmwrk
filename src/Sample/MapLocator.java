@@ -66,7 +66,7 @@ public class MapLocator extends JFrame {
     JList<String> category;
     NamedPlaceListener namedLyss;
     DescribedPlaceListener describedLyss;
-
+/**/
     MapLocator() {
         super("Map Locator");
         this.category = new JList(this.dataModel);
